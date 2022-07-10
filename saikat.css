@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.donation{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image: url(donation2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+  
+}
+.donation h1{
+    padding-top: 150px;
+    color: white;
+}
+.abir{
+    color: white;
+}
+button{
+    width: 100px;
+    height: 7%;
+    color: white;
+    background-color: rgb(255, 0, 136);
+    border: none;
+    border-radius: 4px;
+}
+.saikat{
+    background-color: white;
+    width: 100%;
+    height: 500%;
+    text-align: center;
+}
+.b{
+    
+    height: 90px;
+}
+.c{
+    text-align: center;
+}
+.tomi{
+    background-color: blueviolet;
+    height: 30px;
+}    
+.islam{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.a{
+    width: max-content;
+}
+.d{
+    place-items: ;
+}
+.e{
+    display: flex;
+
+}
+.f{
+    width: 90%;
+    margin: 1%;
+    padding: 30px;
+}
+.g{
+    background-color: rgba(127, 255, 212, 0.514);
+}
+.h{
+    background-color: rgba(188, 143, 143, 0.445);
+}
+.i{
+    background-color: lightpink;
+}
+.j{
+    background-color: rgb(197, 44, 44);
+    height: 40px;
+    width: 30%;
+}
+.k{
+    display: flex;
+}
+.l{
+    width: 50%;
+    padding: 50px;
+    padding-right: 50px;
+}
+.m{
+  width: 500px;
+  margin: 10px;
+}
+.n{
+    display: flex;
+}
+.o{
+    width: 45%;
+    padding: 50px;
+}
+.p{
+    width: 500px;
+    margin: 10px;
+}
+.q{
+    text-align: center;
+    padding: 90px;
+    padding-top: 8px;
+}
+.r{
+    width: 900px;
+    height: 200px;
+    background-color: antiquewhite;
+    padding-right: 50px;
+}
+.s{
+    width: 20%;
+   height: 40px;
+   background-color: rgba(169, 169, 169, 0.473);
+   color: dimgray;
+}
+.t{
+    width: 20%;
+    height: 40px;
+   background-color: orangered;
+   color: white;
+}
